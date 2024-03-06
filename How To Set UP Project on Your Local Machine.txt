@@ -1,0 +1,13 @@
+How To Set UP Project on Your Local machine
+
+
+frontend:
+
+run npm i
+npm start(start your project)
+
+backend:
+
+create database "twitter" in your mysql
+
+replace username and password with your username and password of mysql database in application.properties file
